@@ -1,2 +1,0 @@
-# eniacpersonal
-Personal Projects
